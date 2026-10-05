@@ -59,3 +59,29 @@ The goal was to gain practical experience with endpoint monitoring, security eve
         │ Active Directory │
         │ DNS              │
         └──────────────────┘
+
+## Screenshots
+
+### Wazuh Dashboard
+![Wazuh Dashboard](screenshots/02-wazuh-dashboard.png)
+
+### Wazuh Agent Connected
+![Wazuh Agent Active](screenshots/03-wazuh-agent-active.png)
+
+### Sysmon Endpoint Telemetry
+![Sysmon Events](screenshots/04-sysmon-events.png)
+
+### Failed Logon Detection
+![Failed Logon Alert](screenshots/07-wazuh-failed-logon-alert.png)
+
+### Failed Login Investigation
+![Failed Login Investigation](screenshots/09-failed-login-investigation.png)
+
+### PowerShell Detection
+![PowerShell Detection](screenshots/15-wazuh-powershell-detection.png)
+
+### Encoded PowerShell Detection
+![Encoded PowerShell Alert](screenshots/12-powershell-encoded-command-alert.png)
+
+### Administrator Account Change
+![Administrator Account Enabled](screenshots/16-wazuh-administrator-account-enabled.png)
