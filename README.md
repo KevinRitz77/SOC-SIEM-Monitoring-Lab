@@ -60,6 +60,8 @@ The goal was to gain practical experience with endpoint monitoring, security eve
         │ DNS              │
         └──────────────────┘
 
+```
+
 ## Screenshots
 
 ### Wazuh Dashboard
